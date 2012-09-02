@@ -1,10 +1,11 @@
-*.py[co]
+*.py[cod]
 
 # Packages
 *.egg
 *.egg-info
 dist
 build
+src
 eggs
 parts
 bin
